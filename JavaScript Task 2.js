@@ -28,4 +28,4 @@ function interestCalc(arr) {
 	return interestData;
 }
 
-interestCalculator(data);	
+interestCalc(data);	
